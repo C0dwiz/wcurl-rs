@@ -52,7 +52,7 @@ Download the latest binary for your platform from the [releases page](../../rele
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/wcurl-rs.git
+git clone https://github.com/Ruslan-Isaev/wcurl-rs.git
 cd wcurl-rs
 
 # Build with Make
