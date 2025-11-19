@@ -317,4 +317,5 @@ fn print_usage() {
     println!("  <URL>: URL to be downloaded. Anything that is not a parameter is considered");
     println!("         an URL. Whitespace is percent-encoded and the URL is passed to curl, which");
     println!("         then performs the parsing. May be specified more than once.");
+
 }
