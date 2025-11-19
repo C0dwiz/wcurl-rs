@@ -233,4 +233,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - Original wcurl: https://github.com/curl/wcurl
 - curl project: https://curl.se/
-- Report issues: https://github.com/yourusername/wcurl-rs/issues
+- Report issues: https://github.com/Ruslan-Isaev/wcurl-rs/issues
