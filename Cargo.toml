@@ -1,0 +1,6 @@
+[package]
+name = "wcurl"
+version = "2025.11.9"
+edition = "2021"
+
+[dependencies]
