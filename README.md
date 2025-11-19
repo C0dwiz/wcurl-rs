@@ -56,7 +56,7 @@ git clone https://github.com/Ruslan-Isaev/wcurl-rs.git
 cd wcurl-rs
 
 # Build with Make
-make
+make build
 
 # Or build manually with cargo
 cargo build --release
